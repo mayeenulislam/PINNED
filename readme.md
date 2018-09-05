@@ -1,4 +1,6 @@
-# PINNED <small>&ndash; curated library of bookmarks</small>
+# PINNED
+
+Curated library of bookmarks for personal use
 
 ## Table of Contents
 <!-- MarkdownTOC -->
@@ -13,11 +15,13 @@
 - [AI](#user-content-ai)
 	- [Image Recognition API](#user-content-image-recognition-api)
 - [Utilities](#user-content-utilities)
+	- [General Utils](#user-content-general-utils)
 	- [Image Compression](#user-content-image-compression)
 - [A11y \(Accessibility\)](#user-content-a11y-accessibility)
 
 <!-- /MarkdownTOC -->
 
+---
 
 ## WordPress
 ### Theme Development
@@ -37,6 +41,9 @@
 * [vize.it](http://vize.it/)
 
 ## Utilities
+### General Utils
+* [TwentyTwenty](https://zurb.com/playground/twentytwenty) &mdash; Image Before-After
+
 ### Image Compression
 * [compressor.io](https://compressor.io)
 * [compressify.herokuapp.com](https://compressify.herokuapp.com/) &mdash; API available
