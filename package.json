@@ -1,0 +1,19 @@
+{
+  "name": "pinned",
+  "version": "1.0.0",
+  "description": "Curated collection of bookmarks",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookmarks",
+    "pinned",
+    "items",
+    "free",
+    "resources"
+  ],
+  "author": "Mayeenul Islam",
+  "license": "GPL v2",
+  "dependencies": {}
+}
